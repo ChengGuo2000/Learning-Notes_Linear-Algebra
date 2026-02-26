@@ -2,6 +2,7 @@
 
 ## Introduction
 - My Greatest Thanks to Professor Gilbert Strang, the instructor of this course.
+- I used Python instead of MATLAB for all the coding problems.
 - I am using a MacBook Air A1466 from 2015. It installed PyTorch version 2.2.2 for Intel macOS. My laptop does not have a compatible GPU, and it does not have an Apple Silicon chip.
 - I am using the fourth edition of the **Introduction to Linear Algebra** textbook.
 
