@@ -7,18 +7,18 @@
 - I am using the fourth edition of the **Introduction to Linear Algebra** textbook.
 
 ## My Current Progress
-- 🧠 Problem Set 1
-- ⏳ Problem Set 2
+- ✅ Problem Set 1
+- 🧠 Problem Set 2
 - ⏳ Problem Set 3
+- ⏳ Exam 1
 - ⏳ Problem Set 4
 - ⏳ Problem Set 5
 - ⏳ Problem Set 6
 - ⏳ Problem Set 7
+- ⏳ Exam 2
 - ⏳ Problem Set 8
 - ⏳ Problem Set 9
 - ⏳ Problem Set 10
-- ⏳ Exam 1
-- ⏳ Exam 2
 - ⏳ Exam 3
 - ⏳ Final Exam
 
